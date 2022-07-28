@@ -14,3 +14,9 @@ body {
 .banner-img {
     filter: brightness(50%);
 }
+
+@media(max-width:576px){
+    .course-img img{
+        width: 100%;
+    }
+}
