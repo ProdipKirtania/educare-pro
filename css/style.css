@@ -1,16 +1,16 @@
+/* google fonts - popins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+
 /* common styles */
-* {
+body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
     /* color: #495057; */
 }
 
-body {
-    /* max-width: 1350px; */
-    /* margin: 0 auto; */
+
+.banner-img {
+    filter: brightness(50%);
 }
-
-/* google fonts - popins */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
-
